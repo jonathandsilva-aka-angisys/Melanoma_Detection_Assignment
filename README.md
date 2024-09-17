@@ -6,7 +6,6 @@ In this assignment, you will build a multiclass classification model using a cus
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
